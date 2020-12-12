@@ -27,7 +27,7 @@ The experiment looks at 3 different setups, compared with the existing tradition
 
 ### Complete hydroponic system ###
 
-1. _To be documented_ 
+1. _To be documented_
 2. See folder *Hydroponic-System_CornerSeals* for 3D printed parts to improve the system.
 
 ## Event & Observation Log ##
